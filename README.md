@@ -1,1 +1,1 @@
-# Rnadom-number-Generator
+# Random-number-Generator
